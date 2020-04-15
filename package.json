@@ -24,7 +24,6 @@
   "homepage": "https://github.com/JackPu/react-native-percentage-circle#readme",
   "peerDependencies": {
     "react": "^16.3.2",
-    "react-native": "^0.62"
   },
   "devDependencies": {
     "enzyme": "^3.3.0",
