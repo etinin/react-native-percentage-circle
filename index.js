@@ -59,7 +59,7 @@ class PercentageCircle extends Component {
     radius: PropTypes.number,
     percent: PropTypes.number,
     borderWidth: Proptypes.number,
-    textStyle: Proptypes.array,
+    textStyle: PropTypes.array,
     disabled: PropTypes.bool,
   }
 
